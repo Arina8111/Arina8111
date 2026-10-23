@@ -1,8 +1,10 @@
-# 👩‍💻 Hey, I'm Arina Babbar!
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7A8C4&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Arina!+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;Python+Developer+%F0%9F%90%8D;AI%2FML+Enthusiast+%F0%9F%A4%96" alt="Animated typing introduction" />
+</p>
 
-### `Full-Stack Developer | Python Developer | Future AI/ML Explorer`
+### `Full-Stack Developer | Python Developer | AI/ML Explorer`
 
-> *Turning ideas into code, bugs into lessons, and coffee into commits. ☕🐈*
+> *Turning ideas into code, bugs into lessons, and coffee into commits. ☕*
 
 I'm a developer who enjoys building things for the web and experimenting with Python. I love exploring new technologies, solving problems, and turning ideas into working applications.
 
@@ -91,11 +93,9 @@ I'm a developer who enjoys building things for the web and experimenting with Py
   <a href="mailto:arinababbar@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://leetcode.com/u/arinababbar/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
 </p>
 
 <p align="center">
   💬 Always open to learning, collaborating, and building cool things with code!
 </p>
+
