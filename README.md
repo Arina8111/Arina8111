@@ -1,21 +1,28 @@
 # 👩‍💻 Hey, I'm Arina Babbar!
 
-### `Full-Stack Developer | Python Developer | AI/ML Explorer`
+### `Full-Stack Developer | Python Developer | Future AI/ML Explorer`
 
-> *Turning ideas into code, bugs into lessons, and coffee into commits. ☕*
+> *Turning ideas into code, bugs into lessons, and coffee into commits. ☕🐈*
 
 I'm a developer who enjoys building things for the web and experimenting with Python. I love exploring new technologies, solving problems, and turning ideas into working applications.
 
 - 🌐 **Frontend:** Creating responsive and interactive user interfaces.
 - ⚙️ **Backend:** Building APIs and working with databases.
-- 🐍 **Python:** Developing web applications, APIs, and web-scraping tools.
+- 🐍 **Python:** Developing web applications, APIs, data analysis, and web-scraping tools.
+- 💻 **C++:** Practicing data structures, algorithms, and problem-solving.
 - 🤖 **Currently exploring:** Artificial Intelligence and Machine Learning.
 - 🚀 **Goal:** Keep learning, build meaningful projects, and become a better developer every day.
-- ☕ **Fun fact:** My code runs on Python, but my brain runs on caffeine!
-
 ---
 
 ## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
 
 ### 🎨 Frontend Development
 
@@ -43,10 +50,11 @@ I'm a developer who enjoys building things for the web and experimenting with Py
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 </p>
 
-### 🐍 Python & Tools
+### 🐍 Python Libraries & Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/Beautiful_Soup-000000?style=for-the-badge&logo=python&logoColor=white" alt="Beautiful Soup" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -58,9 +66,9 @@ I'm a developer who enjoys building things for the web and experimenting with Py
 
 - 💻 Building full-stack web applications.
 - 🔌 Developing efficient backend services and REST APIs.
-- 🐍 Exploring Python libraries and practical applications.
 - 🧠 Learning the fundamentals of AI and Machine Learning.
-- 📚 Improving my problem-solving and data structures skills.
+- 🧩 Improving my problem-solving and data structures skills with C++.
+- 🚀 Building projects that combine software development and intelligent applications.
 
 ---
 
@@ -71,7 +79,7 @@ I'm a developer who enjoys building things for the web and experimenting with Py
 
 ---
 
-## 🌐 Let's Connect!
+## 🤝 Let's Connect!
 
 <p align="center">
   <a href="https://github.com/Arina8111">
@@ -88,7 +96,6 @@ I'm a developer who enjoys building things for the web and experimenting with Py
   </a>
 </p>
 
----
 <p align="center">
-  <i>"Eat. Sleep. Code. Debug. Coffee. Repeat. "</i>
+  💬 Always open to learning, collaborating, and building cool things with code!
 </p>
