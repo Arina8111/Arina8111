@@ -65,11 +65,6 @@ I'm a developer who enjoys building things for the web and experimenting with Py
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arina8111&show_icons=true&theme=tokyonight&hide_border=true" alt="Arina's GitHub Stats" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arina8111&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 </p>
@@ -87,5 +82,5 @@ I'm a developer who enjoys building things for the web and experimenting with Py
 💬 Always open to learning, collaborating, and building cool things with code.
 
 <p align="center">
-  <i>"Eat. Sleep. Code. Debug. Coffee. Repeat. ☕"</i>
+  <i>"Eat. Sleep. Code. Debug. Coffee. Repeat. "</i>
 </p>
