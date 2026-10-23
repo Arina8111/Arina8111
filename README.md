@@ -89,17 +89,6 @@ I'm a developer who enjoys building things for the web and experimenting with Py
 </p>
 
 ---
-
-<p align="center">
-  <i>"Write code. Break things. Learn something. Repeat."</i>
-</p>
-
-<p align="center">
-  ☕ Coffee enthusiast &nbsp; • &nbsp; 🐈 Cat lover &nbsp; • &nbsp; 💻 Developer
-</p>
-
-💬 Always open to learning, collaborating, and building cool things with code.
-
 <p align="center">
   <i>"Eat. Sleep. Code. Debug. Coffee. Repeat. "</i>
 </p>
