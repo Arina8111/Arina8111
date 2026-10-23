@@ -71,12 +71,31 @@ I'm a developer who enjoys building things for the web and experimenting with Py
 
 ---
 
-## 🤝 Let's Connect!
+## 🌐 Let's Connect!
 
-<p>
+<p align="center">
   <a href="https://github.com/Arina8111">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://www.linkedin.com/in/arina-babbar-426874395/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:arinababbar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://leetcode.com/u/arinababbar/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Write code. Break things. Learn something. Repeat."</i>
+</p>
+
+<p align="center">
+  ☕ Coffee enthusiast &nbsp; • &nbsp; 🐈 Cat lover &nbsp; • &nbsp; 💻 Developer
 </p>
 
 💬 Always open to learning, collaborating, and building cool things with code.
